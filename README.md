@@ -10,3 +10,4 @@ This is a simple question-answer AI assistant built using LlamaIndex. It answers
 - Ask any question related to your documents.
 
 ## Interface
+![InfoBot LlamaIndex Interface](infobot_llamaindex.png)
